@@ -1,2 +1,2 @@
-# COMP393_Final_Project
+# COMP494_Final_Project
 Final Project Repository
